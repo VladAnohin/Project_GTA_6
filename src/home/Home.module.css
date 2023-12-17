@@ -1,0 +1,16 @@
+.wrapper {
+    @apply w-screen min-h-screen;
+}
+
+.wrapper > form {
+    @apply w-64
+}
+.wrapper > form > h1 {
+    @apply text-2xl;
+}
+.wrapper > form > input{
+
+}
+.wrapper > form > button {
+
+}
