@@ -4,6 +4,7 @@
 
 Write:
 >  git clone https://github.com/VladAnohin/Project_GTA_6  
+> cd Project_GTA_6
 >  yarn 
 > 
 >  yarn add -D tailwindcss postcss autoprefixer
